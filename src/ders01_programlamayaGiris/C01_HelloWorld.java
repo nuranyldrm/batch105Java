@@ -10,6 +10,8 @@ public class C01_HelloWorld {
 
         System.out.println("Hello World");
         System.out.println("merhaba dünya");
+        System.out.println("Hello World1");
+
 
         /*
         BİRDEN FAZLA SATIRI YORUM HALİNE GETİRMEK İÇİN
